@@ -1,0 +1,7 @@
+aiogram
+opencv-python
+pyzbar
+rapidfuzz
+requests
+beautifulsoup4
+numpy
