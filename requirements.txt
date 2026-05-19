@@ -1,7 +1,10 @@
-aiogram
+aiogram>=3.0
+aiohttp
+beautifulsoup4
+cachetools
+lxml
+numpy
 opencv-python
+playwright
 pyzbar
 rapidfuzz
-requests
-beautifulsoup4
-numpy
